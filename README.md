@@ -36,25 +36,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=qu4ih&theme=dark&background=0d0d0d&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=888888&border=1a1a2e)
 
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qu4ih/qu4ih/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qu4ih/qu4ih/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/qu4ih/qu4ih/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" />
-
-</div>
